@@ -62,7 +62,7 @@ research_rag/
 └── vector_db/
 ```
 
-````
+
 
 ## Installation
 
@@ -70,7 +70,7 @@ research_rag/
    ```bash
    git clone https://github.com/your-org/research_rag.git
    cd research_rag
-````
+   ```
 
 2. **Create & activate a virtual environment**:
 
